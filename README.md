@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanastacio17" alt="estebanastacio17" /></a> </p>
 
-- 🔭 I’m currently working on [OSoftPF](https://github.com/EstebanAstacio17/OSoftPF)
+- 🔭 I’m currently working on [OSoftPF](github.com/EstebanAstacio17/OSoftPF)
 
 - 🌱 I’m currently learning **ASP.NET**
 
@@ -13,17 +13,17 @@
 
 - 🤝 I’m looking for help with **C# Windows Form and SQL Server**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EstebanAstacio17?tab=repositories](https://github.com/EstebanAstacio17?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/EstebanAstacio17?tab=repositories](github.com/EstebanAstacio17?tab=repositories)
 
 - 💬 Ask me about **C#, WinForm or SQL Server**
 
 - 📫 How to reach me **estebanastacio17@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/](https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/)
+- 📄 Know about my experiences [linkedin.com/in/juan-esteban-astacio-b500b11b8](linkedin.com/in/juan-esteban-astacio-b500b11b8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/juan-esteban-astacio-b500b11b8](https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-esteban-astacio-b500b11b8" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
