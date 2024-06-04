@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Esteban Astacio </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=estebanastacio17&label=Profile%20views&color=0e75b6&style=flat" alt="estebanastacio17" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=estebanastacio17&label=Profile%20views&color=0e75b6&style=flat" alt="estebanastacio17" /> </p> -->
 <h3 align="center"> Labor Omnia Vincit ⚜️</h3>
 
 <p align="center">
