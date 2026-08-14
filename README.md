@@ -13,8 +13,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanastacio17" alt="estebanastacio17" /></a> </p>
-
 - 🔭 I’m currently working on [OSoftPF](github.com/EstebanAstacio17/OSoftPF)
 
 - 🌱 I’m currently learning **ASP.NET**
@@ -30,8 +28,6 @@
 - 📫 How to reach me **estebanastacio17@outlook.com**
 
 - 📄 Know about my experiences  [Juan Esteban Astacio](https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/)
-
-<h3 align="left">Badges and More!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
