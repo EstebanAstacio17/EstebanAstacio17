@@ -21,8 +21,6 @@
 
 - 🤝 I’m looking for help with **C# Windows Form and SQL Server**
 
-- 👨‍💻 All of my projects are available at [EstebanAstacio17](github.com/EstebanAstacio17?tab=repositories)
-
 - 💬 Ask me about **C#, WinForm or SQL Server**
 
 - 📫 How to reach me **estebanastacio17@outlook.com**
