@@ -32,25 +32,6 @@
 - 📄 Know about my experiences  [Juan Esteban Astacio](https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/)
 
 <h3 align="left">Badges and More!</h3>
-<p align="left">
-  
-   < [Creating Compelling Reports](https://www.credly.com/badges/af800686-28e1-40cd-9c0c-afe9909584e3/public_url) />
-
-   < [Network Support and Security](https://www.credly.com/badges/cf449caf-8b18-42b6-ae76-0d1b8000de1c/public_url) />
-
-   < [Endpoint Security](https://www.credly.com/badges/be294ccb-57ad-41f4-a892-00720bfc5bff/public_url) />
-
-   < [Cyber Threat Management](https://www.credly.com/badges/af225b31-f121-4930-98f8-3af9fac2f889/public_url) />
-  
-   < [Network Defense](https://www.credly.com/badges/84e5c5fc-7867-4129-bc8d-dca19986e617/public_url) />
-
-   < [Introduction to Cybersecurity](https://www.credly.com/badges/ed599a99-b21e-41ef-86a3-5e985964539d/public_url) />
-
-   < [Fundamentos de Ciberseguridad](https://www.credly.com/badges/05e03eb1-63ea-48b5-afb3-f18c74353076/public_url) />
-
-   < [Cloud Computing](https://skillshop.exceedlms.com/student/award/msazEGNXFdePmRNrMQVWfZAo) />
-  
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
