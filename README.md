@@ -103,10 +103,7 @@ Profesional independiente enfocado en la integración de **estrategia de negocio
 ### 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstebanAstacio17&theme=tokyo-night&hide_border=true&area=true" alt="Esteban's Activity Graph" width="95%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstebanAstacio17&theme=tokyonight&hide_border=true" alt="Esteban's Streak Stats" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstebanAstacio17&theme=tokyonight&hide_border=true" alt="Esteban's Streak Stats" width="60%" />
 </p>
 
 ---
