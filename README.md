@@ -1,33 +1,64 @@
-<h1 align="center">👋 I'm Esteban Astacio </h1>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=estebanastacio17&label=Profile%20views&color=0e75b6&style=flat" alt="estebanastacio17" /> </p> -->
-<h3 align="center"> Labor Omnia Vincit ⚜️</h3>
+# ¡Hola! Soy Juan Esteban Astacio 👋
 
 <p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <img src="https://komarev.com/ghpvc/?username=EstebanAstacio17&label=Profile%20Views&color=0e75b6&style=flat" alt="EstebanAstacio17" />
+  <a href="mailto:estebanastacio17@outlook.com">
+    <img src="https://img.shields.io/badge/Email-estebanastacio17%40outlook.com-blue?style=flat&logo=microsoftoutlook" alt="Email"/>
+  </a>
 </p>
 
-- 🔭 I’m currently working on [AdminSoftPF](https://github.com/EstebanAstacio17/AdminSoftPF)
+---
 
-- 🌱 I’m currently learning **ASP.NET**
+### 🚀 Sobre Mí
 
-- 👯 I’m looking to collaborate on **C# Windows Form and SQL Server**
+Profesional independiente enfocado en la intersección entre **gestión operativa** y **tecnología aplicada**. Ayudo a optimizar flujos de trabajo, automatizar procesos y analizar información mediante herramientas digitales, servicios en la nube y análisis de datos.
 
-- 🤝 I’m looking for help with **C# Windows Form and SQL Server**
+- 💼 **Trabajo Independiente:** Desarrollo e implementación de soluciones digitales, automatizaciones y soporte tecnológico para operaciones.
+- 🎓 **Formación:** Estudiante de Licenciatura en Administración de Empresas (UNICDA).
+- ☁️ **Intereses Tech:** Automatización de flujos de trabajo, Computación en la Nube, Análisis de Datos y Ciberseguridad.
+- 🎯 **Propósito:** Transformar procesos manuales y administrativos en soluciones digitales ágiles, seguras y escalables.
 
-- 💬 Ask me about **C#, WinForm or SQL Server**
+---
 
-- 📫 How to reach me **estebanastacio17@outlook.com**
+### 🛠️ Áreas de Enfoque & Tecnologías
 
-- 📄 Know about my experiences  [Juan Esteban Astacio](https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-esteban-astacio-b500b11b8/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-esteban-astacio-b500b11b8" height="30" width="40" /> </a>
+#### **Datos, Nube & Seguridad**
+<p>
+  <img src="https://img.shields.io/badge/Cloud_Computing-INFOTEP-blue?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Cisco-navy?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-CertiProf_CAPC-red?logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bases_de_Datos-SQL-003B57?logo=postgresql&logoColor=white" />
 </p>
+
+#### **Automatización, Control de Versiones & Herramientas**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process_Automation-Workflow-green" />
+  <img src="https://img.shields.io/badge/Microsoft_365-Advanced-D83B01?logo=microsoftoffice&logoColor=white" />
+</p>
+
+---
+
+### 📜 Certificaciones
+
+- **Fundamentos de Análisis de Datos** — *Cisco Networking Academy*
+- **Concienciación en Ciberseguridad (CAPC)** — *CertiProf*
+- **Computación en la Nube** — *INFOTEP*
+- **Gestión Presupuestaria & Técnicas de Negociación** — *INFOTEP*
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EstebanAstacio17&show_icons=true&theme=tokyonight&hide_border=true" alt="Esteban's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstebanAstacio17&theme=tokyonight&hide_border=true" alt="Esteban's Streak Stats" width="48%" />
+</p>
+
+---
+
+### 📬 Contacto
+
+- 📧 **Correo Electrónico:** [estebanastacio17@outlook.com](mailto:estebanastacio17@outlook.com)
+- 📍 Santo Domingo, República Dominicana
