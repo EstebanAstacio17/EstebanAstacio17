@@ -11,45 +11,96 @@
 
 ### 🚀 Sobre Mí
 
-Profesional independiente enfocado en la intersección entre **gestión operativa** y **tecnología aplicada**. Ayudo a optimizar flujos de trabajo, automatizar procesos y analizar información mediante herramientas digitales, servicios en la nube y análisis de datos.
+Profesional independiente enfocado en la integración de **estrategia de negocios**, **infraestructura tecnológica**, **ciberseguridad** y **automatización de procesos**. Con sólida formación técnica y visión operativa, diseño e implemento soluciones digitales seguras, estables y eficientes.
 
-- 💼 **Trabajo Independiente:** Desarrollo e implementación de soluciones digitales, automatizaciones y soporte tecnológico para operaciones.
-- 🎓 **Formación:** Estudiante de Licenciatura en Administración de Empresas (UNICDA).
-- ☁️ **Intereses Tech:** Automatización de flujos de trabajo, Computación en la Nube, Análisis de Datos y Ciberseguridad.
-- 🎯 **Propósito:** Transformar procesos manuales y administrativos en soluciones digitales ágiles, seguras y escalables.
+- 💼 **Práctica Independiente:** Consultoría e implementación en infraestructura de redes, seguridad de endpoints, cloud computing y bases de datos.
+- 🎓 **Formación Académica:** Estudiante de Licenciatura en Administración de Empresas en la Universidad Domínico Americano (UNICDA) y Técnico en Informática (CENTU).
+- 🛡️ **Enfoque Técnico:** Redes Cisco, Análisis de Seguridad/Defensa Digital, Administración de Bases de Datos SQL y Entornos Cloud.
+- 🎯 **Objetivo:** Optimizar la operatividad empresarial reduciendo vulnerabilidades y automatizando flujos de trabajo.
 
 ---
 
-### 🛠️ Áreas de Enfoque & Tecnologías
+### 🛠️ Áreas de Especialidad & Stack Técnico
 
-#### **Datos, Nube & Seguridad**
+#### **Ciberseguridad & Infraestructura de Redes**
 <p>
-  <img src="https://img.shields.io/badge/Cloud_Computing-INFOTEP-blue?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-Cisco-navy?logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-CertiProf_CAPC-red?logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bases_de_Datos-SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-CCNA-blue?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ciberseguridad-CertiProf_CAPC-red?logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-Fundamentals-black?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Defense-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teletrabajo_Seguro-INCIBE-005A9C" />
 </p>
 
-#### **Automatización, Control de Versiones & Herramientas**
+#### **Cloud, Bases de Datos & Desarrollo**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Process_Automation-Workflow-green" />
-  <img src="https://img.shields.io/badge/Microsoft_365-Advanced-D83B01?logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-INFOTEP_%2F_EOI-blue?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-Microsoft-CC292B?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analytics-Cisco-003B57?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5_%26_CSS3-Web_Design-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Programming-Software-5C2D91" />
 </p>
 
 ---
 
-### 📜 Certificaciones
+### 📜 Certificaciones & Capacitación Técnica
 
-- **Fundamentos de Análisis de Datos** — *Cisco Networking Academy*
-- **Concienciación en Ciberseguridad (CAPC)** — *CertiProf*
-- **Computación en la Nube** — *INFOTEP*
-- **Gestión Presupuestaria & Técnicas de Negociación** — *INFOTEP*
+<details open>
+<summary><b>🛡️ Ciberseguridad & Defensa Digital</b></summary>
+
+* **Junior Cybersecurity Analyst Career Path** — *Cisco Networking Academy*
+* **Ethical Hacker** — *Cisco Networking Academy*
+* **Cyber Threat Management** — *Cisco Networking Academy*
+* **Endpoint Security** — *Cisco Networking Academy*
+* **Network Defense** — *Cisco Networking Academy*
+* **Introduction to Cybersecurity** — *Cisco Networking Academy*
+* **Cybersecurity Awareness (CAPC)** — *CertiProf*
+* **Ciberseguridad en el Teletrabajo** — *INCIBE (España)*
+* **Auxiliar de Ciberseguridad Informática y de Sistemas** — *INFOTEP / MACROseguridad*
+* **Fundamentos de Ciberseguridad** — *MACROseguridad (MASEG)*
+</details>
+
+<details open>
+<summary><b>🌐 Redes & Telecomunicaciones</b></summary>
+
+* **Introducción a las Redes CCNA 1** — *INFOTEP*
+* **Network Technician Career Path** — *Cisco Networking Academy*
+* **Network Addressing and Basic Troubleshooting** — *Cisco Networking Academy*
+* **Networking Devices and Initial Configuration** — *Cisco Networking Academy*
+* **Network Support and Security** — *Cisco Networking Academy*
+* **Networking Basics** — *Cisco Networking Academy*
+* **Cisco Packet Tracer** — *Cisco Networking Academy*
+* **Servicios Auxiliares en Infraestructura de Redes** — *INFOTEP*
+* **Data Communication Network (DATACOM)** — *INFOTEP*
+* **Redes y Cableado Estructurado** — *INFOTEP*
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, Bases de Datos & Análisis de Información</b></summary>
+
+* **Cloud Computing: Diseño y Desarrollo en las Nubes** — *INFOTEP*
+* **Cloud Computing** — *Escuela de Organización Industrial (EOI, España)*
+* **SQL Server** — *INFOTEP*
+* **Introducción y Diseño de Base de Datos** — *INFOTEP*
+* **Data Analytics Essentials** — *Cisco Networking Academy*
+* **Introduction to Data Science** — *Cisco Networking Academy*
+* **Creating Compelling Reports** — *Cisco Networking Academy*
+* **Introduction to Internet of Things (IoT)** — *Cisco Networking Academy*
+</details>
+
+<details>
+<summary><b>💻 Desarrollo, Hardware & Sistemas</b></summary>
+
+* **Programación Visual** — *INFOTEP*
+* **Introducción al Desarrollo Web: HTML y CSS** — *Universidad de Alicante*
+* **Diseñador de Páginas Web y CSS** — *INFOTEP*
+* **Técnico en Informática** — *CENTU*
+* **Ensamblador de Computadoras** — *INFOTEP*
+* **Robótica Educativa (Nivel Primario y Secundario)** — *DGIE Educando / MINERD*
+</details>
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Métricas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EstebanAstacio17&show_icons=true&theme=tokyonight&hide_border=true" alt="Esteban's GitHub Stats" width="48%" />
@@ -58,7 +109,7 @@ Profesional independiente enfocado en la intersección entre **gestión operativ
 
 ---
 
-### 📬 Contacto
+### 📬 Contacto Profesional
 
-- 📧 **Correo Electrónico:** [estebanastacio17@outlook.com](mailto:estebanastacio17@outlook.com)
+- 📧 **Email:** [estebanastacio17@outlook.com](mailto:estebanastacio17@outlook.com)
 - 📍 Santo Domingo, República Dominicana
